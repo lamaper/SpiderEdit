@@ -4,7 +4,7 @@ A fantastic tools for teachers who can analyse scores easily
 
 迄今为止最好用的学生错题管理系统
 
-author：(lamaper)[https://github.com/lamaper]、(LittFlower)[https://github.com/LittFlower]、 (illustager)[https://github.com/illustager]
+author：[lamaper](https://github.com/lamaper)、 [LittFlower](https://github.com/LittFlower)、[illustager](https://github.com/illustager)
 
 team：E-butx
 
